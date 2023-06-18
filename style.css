@@ -73,7 +73,7 @@ html{
 }
 
 .background {
-    background: rgb(254, 254, 254) url("/Image8.jpg");
+    background: rgb(254, 254, 254) url("https://images.unsplash.com/photo-1616046229478-9901c5536a45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80");
     background-size: 1550px;
 }
 
